@@ -1,0 +1,23 @@
+{
+    "31990604": {
+        "DNI": 31990604,
+        "N_Cuenta": 1.0,
+        "Titular": "nombre2",
+        "Saldo": "1542",
+        "Tipo_cuenta": "AHORRO"
+    },
+    "58805502": {
+        "DNI": 58805502,
+        "N_Cuenta": 2.0,
+        "Titular": "nombre3",
+        "Saldo": "1652",
+        "Tipo_cuenta": "CORRIENTE"
+    },
+    "25255431": {
+        "DNI": 25255431,
+        "N_Cuenta": 1.0,
+        "Titular": "nombre",
+        "Saldo": "1401",
+        "Tipo_cuenta": "AHORRO"
+    }
+}
